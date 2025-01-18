@@ -1,6 +1,7 @@
 # Expense Tracker
 
 A simple web application to track personal expenses.
+![Expense Tracker Screenshot](./images/expensetracker.png)
 
 ## Description
 
